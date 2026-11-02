@@ -570,22 +570,32 @@ def generate_html_dashboard():
 
         .dossier-actions {{
             display: flex;
-            gap: 8px;
+            gap: 6px;
+            align-items: flex-start;
+            flex-shrink: 0;
+            white-space: nowrap;
         }}
 
         .btn-action {{
-            padding: 8px 14px;
-            border-radius: 8px;
+            padding: 4px 9px;
+            border-radius: 5px;
             border: 1px solid var(--border-color);
             background: #ffffff;
-            font-size: 13px;
+            font-size: 11.5px;
             font-weight: 600;
             color: var(--text-secondary);
             cursor: pointer;
             transition: all 0.2s;
             display: inline-flex;
             align-items: center;
-            gap: 6px;
+            justify-content: center;
+            gap: 4px;
+            white-space: nowrap;
+            height: 28px;
+            line-height: 1;
+            text-decoration: none;
+            box-sizing: border-box;
+            flex-shrink: 0;
         }}
 
         .btn-action:hover {{
