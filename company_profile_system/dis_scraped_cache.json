@@ -2601,5 +2601,15 @@
     ],
     "source_month": "September 2026",
     "updated_at": "2026-11-01 17:33:59"
+  },
+  "2935": {
+    "op_id": "2935",
+    "dis_client_text": "Alo Communications Limited, 14.32.0000.702.45.103.21.003",
+    "iigs": [
+      "BD Hub Ltd.",
+      "Fiber@Home Global Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-02 13:12:00"
   }
 }

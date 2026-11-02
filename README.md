@@ -44,3 +44,4 @@ The **BTRC ISP Company Profiling & Regulatory Audit System** is a unified analyt
 
 ---
 *© 2026 Bangladesh Telecommunication Regulatory Commission (BTRC). All Rights Reserved.*
+
