@@ -1,0 +1,27 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Temporary scrape HTML files (too large for git)
+company_profile_system/sample/orange_dis_report.html
+company_profile_system/sample/adn_dis_report.html
+
+# Backup files
+*.backup.xlsx
+*.pre_dis_backup.xlsx
+
+# Agent / Scratch directories
+.gemini/
+.system_generated/
+.user_uploaded/
+scratch/
+*.log
+
+# OS generated
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store

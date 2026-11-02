@@ -1,0 +1,2605 @@
+{
+  "2942": {
+    "op_id": "2942",
+    "dis_client_text": "Telnet Communication Limited, 14.32.0000.702.45.110.21.010",
+    "iigs": [
+      "Level3 Carrier Ltd.",
+      "Summit Communications Ltd.",
+      "BD Hub Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:44:09"
+  },
+  "2944": {
+    "op_id": "2944",
+    "dis_client_text": "ADN Telecom Limited, 14.32.0000.702.45.1",
+    "iigs": [
+      "ADN International Gateway Limited",
+      "Bangladesh Submarine Cable Company Ltd.",
+      "Earth Telecommunication (Pvt.) Ltd.",
+      "Fiber@Home Global Ltd.",
+      "Summit Communications Ltd.",
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 14:52:00"
+  },
+  "2946": {
+    "op_id": "2946",
+    "dis_client_text": "Aamra Networks Limited, 14.32.0000.702.45.114.21.14",
+    "iigs": [
+      "Level3 Carrier Ltd.",
+      "Windstream Communication Ltd.",
+      "Startrek Telecom Ltd",
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:44:40"
+  },
+  "2947": {
+    "op_id": "2947",
+    "dis_client_text": "Bijoy Online Limited, 14.32.0000.702.45.",
+    "iigs": [
+      "Bangladesh Telecommunications Company Limited",
+      "Summit Communications Ltd.",
+      "Peerex Networks Limited"
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 14:52:00"
+  },
+  "2951": {
+    "op_id": "2951",
+    "dis_client_text": "Royal Green Limited, 14.32.0000.702.45.119.21.19",
+    "iigs": [
+      "Startrek Telecom Ltd",
+      "BD Hub Ltd.",
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:45:14"
+  },
+  "2957": {
+    "op_id": "2957",
+    "dis_client_text": "InfoLink Limited, 14.32.0000.702.45.125.21.025",
+    "iigs": [
+      "Exabyte Ltd.",
+      "Peerex Networks Limited"
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:45:22"
+  },
+  "2959": {
+    "op_id": "2959",
+    "dis_client_text": "Innovative Online Limited, 14.32.0000.702.45.127.21.027",
+    "iigs": [
+      "Summit Communications Ltd.",
+      "VIRGO Communications Ltd.",
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:45:46"
+  },
+  "2960": {
+    "op_id": "2960",
+    "dis_client_text": "Idea Tech Limited, 14.32.0000.702.45.128.21.028",
+    "iigs": [
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:45:55"
+  },
+  "2962": {
+    "op_id": "2962",
+    "dis_client_text": "Space Net Limited, 14.32.0000.702.45.130.21.030",
+    "iigs": [
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:45:56"
+  },
+  "2971": {
+    "op_id": "2971",
+    "dis_client_text": "Kloud Technologies Limited, 14.32.0000.702.45.139.21.039",
+    "iigs": [
+      "Level3 Carrier Ltd.",
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:46:00"
+  },
+  "2978": {
+    "op_id": "2978",
+    "dis_client_text": "Skyview Online Limited, 14.32.0000.702.45.146.21.046",
+    "iigs": [
+      "Greenmax Technologies Ltd.",
+      "Fiber@Home Global Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:46:07"
+  },
+  "3002": {
+    "op_id": "3002",
+    "dis_client_text": "M/s. Comilla Online, 14.32.0000.702.45.166.22.071",
+    "iigs": [
+      "Startrek Telecom Ltd",
+      "Earth Telecommunication (Pvt.) Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:46:20"
+  },
+  "3022": {
+    "op_id": "3022",
+    "dis_client_text": "DB Technologies, 14.32.0000.702.45.157.22.057",
+    "iigs": [
+      "Level3 Carrier Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:46:23"
+  },
+  "3029": {
+    "op_id": "3029",
+    "dis_client_text": "Business Zone Limited, 14.32.0000.007.55.179.15.177",
+    "iigs": [
+      "Windstream Communication Ltd.",
+      "Summit Communications Ltd.",
+      "Exabyte Ltd.",
+      "Level3 Carrier Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:46:35"
+  },
+  "3032": {
+    "op_id": "3032",
+    "dis_client_text": "Orange Communication, 14.32.0000.702.45.184.23.084",
+    "iigs": [
+      "Exabyte Ltd.",
+      "Windstream Communication Ltd.",
+      "Summit Communications Ltd.",
+      "Level3 Carrier Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:46:54"
+  },
+  "3041": {
+    "op_id": "3041",
+    "dis_client_text": "Paradise Technologies Limited, 14.32.0000.007.55.182.15.171",
+    "iigs": [
+      "Exabyte Ltd.",
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:46:58"
+  },
+  "3061": {
+    "op_id": "3061",
+    "dis_client_text": "First N Fast IT Limited, 14.32.0000.702.45.527.22.226",
+    "iigs": [
+      "Level3 Carrier Ltd.",
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:46:59"
+  },
+  "3062": {
+    "op_id": "3062",
+    "dis_client_text": "Chittagong Telecom Services Ltd., 14.32.0000.702.45.448.22.149",
+    "iigs": [
+      "Windstream Communication Ltd.",
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:47:08"
+  },
+  "3068": {
+    "op_id": "3068",
+    "dis_client_text": "M/s Comilla Cable Tv Online, BTRC/LL/ISP-South-East(72)CCTV Online/2010-68",
+    "iigs": [
+      "Startrek Telecom Ltd",
+      "Exabyte Ltd.",
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:47:10"
+  },
+  "3089": {
+    "op_id": "3089",
+    "dis_client_text": "Discovery Internet, 14.32.0000.702.45.306.21.007",
+    "iigs": [
+      "Level3 Carrier Ltd.",
+      "Fiber@Home Global Ltd.",
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:47:38"
+  },
+  "3091": {
+    "op_id": "3091",
+    "dis_client_text": "Meghna Online, 14.32.0000.702.45.485.22.186",
+    "iigs": [
+      "Fiber@Home Global Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:47:41"
+  },
+  "3095": {
+    "op_id": "3095",
+    "dis_client_text": "Communication Enterprise, 14.32.0000.702.45.404.21.105",
+    "iigs": [
+      "Fiber@Home Global Ltd.",
+      "Earth Telecommunication (Pvt.) Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:47:43"
+  },
+  "3097": {
+    "op_id": "3097",
+    "dis_client_text": "Sky Systems Ltd., 14.32.0000.702.45.343.21.044",
+    "iigs": [
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:47:45"
+  },
+  "3099": {
+    "op_id": "3099",
+    "dis_client_text": "Feni Easy Net, 14.32.0000.702.45.462.22.163",
+    "iigs": [
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:47:49"
+  },
+  "3104": {
+    "op_id": "3104",
+    "dis_client_text": "Digital Dot Net, 14.32.0000.702.45.304.21.005",
+    "iigs": [
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:48:06"
+  },
+  "3105": {
+    "op_id": "3105",
+    "dis_client_text": "Our Online, 14.32.0000.702.45.312.21.013",
+    "iigs": [
+      "Exabyte Ltd.",
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:48:09"
+  },
+  "3109": {
+    "op_id": "3109",
+    "dis_client_text": "Cox Link IT, 14.32.0000.702.45.440.22.141",
+    "iigs": [
+      "Bangladesh Submarine Cable Company Ltd.",
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:48:12"
+  },
+  "3110": {
+    "op_id": "3110",
+    "dis_client_text": "Novus Network, 14.32.0000.702.45.388.21.089",
+    "iigs": [
+      "Exabyte Ltd.",
+      "Fiber@Home Global Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:48:16"
+  },
+  "3111": {
+    "op_id": "3111",
+    "dis_client_text": "Apna Network, 14.32.0000.702.45.393.21.094",
+    "iigs": [
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:48:19"
+  },
+  "3120": {
+    "op_id": "3120",
+    "dis_client_text": "Empowering Net, 14.32.0000.702.45.340.21.041",
+    "iigs": [
+      "Exabyte Ltd.",
+      "Windstream Communication Ltd.",
+      "Level3 Carrier Ltd.",
+      "Earth Telecommunication (Pvt.) Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:48:25"
+  },
+  "3121": {
+    "op_id": "3121",
+    "dis_client_text": "Star IT, 14.32.0000.702.45.552.22.253",
+    "iigs": [
+      "Earth Telecommunication (Pvt.) Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:48:28"
+  },
+  "3124": {
+    "op_id": "3124",
+    "dis_client_text": "M/s. SOL-BD, 14.32.0000.702.45.328.21.029",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:48:39"
+  },
+  "3143": {
+    "op_id": "3143",
+    "dis_client_text": "BKB Network, 14.32.0000.702.45.543.22.244",
+    "iigs": [
+      "Summit Communications Ltd.",
+      "Greenmax Technologies Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:48:43"
+  },
+  "3144": {
+    "op_id": "3144",
+    "dis_client_text": "Brother’s ICT Connectivity, 14.32.0000.702.45.438.22.139",
+    "iigs": [
+      "Summit Communications Ltd.",
+      "Level3 Carrier Ltd.",
+      "Fiber@Home Global Ltd.",
+      "Coronet Corporation Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:48:48"
+  },
+  "3146": {
+    "op_id": "3146",
+    "dis_client_text": "I Communication, 14.32.0000.702.45.564.22.265",
+    "iigs": [
+      "Summit Communications Ltd.",
+      "Exabyte Ltd.",
+      "Earth Telecommunication (Pvt.) Ltd.",
+      "Level3 Carrier Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:48:50"
+  },
+  "3148": {
+    "op_id": "3148",
+    "dis_client_text": "Bismillah Enterprise, 14.32.0000.702.45.435.22.136",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:48:55"
+  },
+  "3149": {
+    "op_id": "3149",
+    "dis_client_text": "Sayem Online Communication, 14.32.0000.702.45.489.22.190",
+    "iigs": [
+      "Level3 Carrier Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:48:59"
+  },
+  "3169": {
+    "op_id": "3169",
+    "dis_client_text": "Arrow Net, 14.32.0000.702.45.457.22.158",
+    "iigs": [
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:49:02"
+  },
+  "3176": {
+    "op_id": "3176",
+    "dis_client_text": "Neefit Ltd., 14.32.0000.702.45.366.21.067",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:49:03"
+  },
+  "3179": {
+    "op_id": "3179",
+    "dis_client_text": "Fiber Link, 14.32.0000.702.45.317.21.018",
+    "iigs": [
+      "Level3 Carrier Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:49:06"
+  },
+  "3192": {
+    "op_id": "3192",
+    "dis_client_text": "Unique Communication Services, 14.32.0000.702.45.432.22.133",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:49:08"
+  },
+  "3205": {
+    "op_id": "3205",
+    "dis_client_text": "Pabna Cable Vision Dot Net, 14.32.0000.702.45.534.22.233",
+    "iigs": [
+      "Bangladesh Telecommunications Company Limited",
+      "Radiant Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:49:25"
+  },
+  "3231": {
+    "op_id": "3231",
+    "dis_client_text": "iBox Communications, 14.32.0000.702.45.691.18.233",
+    "iigs": [
+      "Skytel Communication Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:49:27"
+  },
+  "3239": {
+    "op_id": "3239",
+    "dis_client_text": "Tajri Communication, 14.32.0000.702.45.486.22.187",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:49:31"
+  },
+  "3252": {
+    "op_id": "3252",
+    "dis_client_text": "Lee Communication, 14.32.0000.702.45.551.22.252",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:49:32"
+  },
+  "3296": {
+    "op_id": "3296",
+    "dis_client_text": "Spider Networks, 14.32.0000.702.45.400.21.101",
+    "iigs": [
+      "Bangladesh Telecommunications Company Limited",
+      "Fiber@Home Global Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:49:35"
+  },
+  "3317": {
+    "op_id": "3317",
+    "dis_client_text": "Future Express, 14.32.0000.702.45.696.18.251",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:49:39"
+  },
+  "3334": {
+    "op_id": "3334",
+    "dis_client_text": "Spark System Limited., 14.32.0000.702.45.415.22.116",
+    "iigs": [
+      "Skytel Communication Ltd.",
+      "BD Hub Ltd.",
+      "Level3 Carrier Ltd.",
+      "Velocity Networks Limited"
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:49:41"
+  },
+  "3338": {
+    "op_id": "3338",
+    "dis_client_text": "Infobase Limited, 14.32.0000.702.45.350.21.051",
+    "iigs": [
+      "Skytel Communication Ltd.",
+      "Bangladesh Telecommunications Company Limited",
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:49:48"
+  },
+  "3343": {
+    "op_id": "3343",
+    "dis_client_text": "M/s. Techno Asia Infotech, BTRC/LL/ISP-Central Zone (123)Techno/2012-106",
+    "iigs": [
+      "VIRGO Communications Ltd.",
+      "Rego Communications Ltd.",
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:49:52"
+  },
+  "3378": {
+    "op_id": "3378",
+    "dis_client_text": "Brisk Systems, 14.32.0000.702.45.352.21.053",
+    "iigs": [
+      "Windstream Communication Ltd.",
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:50:05"
+  },
+  "3379": {
+    "op_id": "3379",
+    "dis_client_text": "M/s. Doly IT Corner, 14.32.0000.702.45.372.21.073",
+    "iigs": [
+      "Summit Communications Ltd.",
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:50:12"
+  },
+  "3382": {
+    "op_id": "3382",
+    "dis_client_text": "Bengal Broadband Ltd., 14.32.0000.702.45.370.21.071",
+    "iigs": [
+      "Summit Communications Ltd.",
+      "Greenmax Technologies Ltd.",
+      "Earth Telecommunication (Pvt.) Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:50:19"
+  },
+  "3386": {
+    "op_id": "3386",
+    "dis_client_text": "Central Net Broadband Network, 14.32.0000.702.45.373.21.074",
+    "iigs": [
+      "Peerex Networks Limited"
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:50:22"
+  },
+  "3400": {
+    "op_id": "3400",
+    "dis_client_text": "IT Base, 14.32.0000.702.45.356.21.057",
+    "iigs": [
+      "Summit Communications Ltd.",
+      "Exabyte Ltd.",
+      "Fiber@Home Global Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:50:30"
+  },
+  "3405": {
+    "op_id": "3405",
+    "dis_client_text": "SSTN Technology, 14.32.0000.702.45.342.21.043",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:50:34"
+  },
+  "3410": {
+    "op_id": "3410",
+    "dis_client_text": "Amarnet System, 14.32.0000.702.45.375.21.076",
+    "iigs": [
+      "Level3 Carrier Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:50:38"
+  },
+  "3412": {
+    "op_id": "3412",
+    "dis_client_text": "ADDA Network, 14.32.0000.702.45.360.21.061",
+    "iigs": [
+      "Greenmax Technologies Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:50:44"
+  },
+  "3415": {
+    "op_id": "3415",
+    "dis_client_text": "Xplore Net BD, 14.32.0000.702.45.338.21.039",
+    "iigs": [
+      "Exabyte Ltd.",
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:51:00"
+  },
+  "3418": {
+    "op_id": "3418",
+    "dis_client_text": "ZN IT Solution, 14.32.0000.702.45.470.22.171",
+    "iigs": [],
+    "source_month": "No Data",
+    "updated_at": "2026-11-01 17:33:11"
+  },
+  "3420": {
+    "op_id": "3420",
+    "dis_client_text": "Invention Technologies Limited, 14.32.0000.702.45.469.22.170",
+    "iigs": [
+      "Windstream Communication Ltd.",
+      "Exabyte Ltd.",
+      "Level3 Carrier Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:51:06"
+  },
+  "3423": {
+    "op_id": "3423",
+    "dis_client_text": "Spectra Technologies Limited, 14.32.0000.702.45.502.22.207",
+    "iigs": [
+      "Level3 Carrier Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:51:10"
+  },
+  "3425": {
+    "op_id": "3425",
+    "dis_client_text": "Sixty Four Networks Limited, 14.32.0000.702.45.505.22.209",
+    "iigs": [
+      "Windstream Communication Ltd.",
+      "Exabyte Ltd.",
+      "Fiber@Home Global Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:51:16"
+  },
+  "3427": {
+    "op_id": "3427",
+    "dis_client_text": "Bhuiyan Telecom, 14.32.0000.702.45.508.22.223",
+    "iigs": [
+      "Summit Communications Ltd.",
+      "Earth Telecommunication (Pvt.) Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:51:20"
+  },
+  "3429": {
+    "op_id": "3429",
+    "dis_client_text": "BCL Online Service, 14.32.0000.702.45.510.22.216",
+    "iigs": [
+      "Peerex Networks Limited",
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:51:23"
+  },
+  "3432": {
+    "op_id": "3432",
+    "dis_client_text": "Bee Online, 14.32.0000.702.45.518.22.214",
+    "iigs": [
+      "Fiber@Home Global Ltd.",
+      "VIRGO Communications Ltd.",
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:51:30"
+  },
+  "3433": {
+    "op_id": "3433",
+    "dis_client_text": "Bot-tola Cyber Net, 14.32.0000.702.45.519.22.215",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:51:34"
+  },
+  "3449": {
+    "op_id": "3449",
+    "dis_client_text": "B. Baria Online, 14.32.0000.702.45.616.21.016",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:51:36"
+  },
+  "3458": {
+    "op_id": "3458",
+    "dis_client_text": "Quad Technology and Infotech Limited., 14.32.0000.702.45.625.21.025",
+    "iigs": [
+      "Level3 Carrier Ltd.",
+      "Fiber@Home Global Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:51:45"
+  },
+  "3464": {
+    "op_id": "3464",
+    "dis_client_text": "Quantum Broadband, 14.32.0000.702.45.631.21.028",
+    "iigs": [
+      "Fiber@Home Global Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:51:49"
+  },
+  "3465": {
+    "op_id": "3465",
+    "dis_client_text": "Naria Online, 14.32.0000.702.45.633.21.033",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:51:53"
+  },
+  "3467": {
+    "op_id": "3467",
+    "dis_client_text": "Tetrasoft, 14.32.0000.702.45.635.21.036",
+    "iigs": [
+      "Windstream Communication Ltd.",
+      "Peerex Networks Limited"
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:52:00"
+  },
+  "3477": {
+    "op_id": "3477",
+    "dis_client_text": "Dream.Net, 14.32.0000.702.45.645.21.045",
+    "iigs": [
+      "Summit Communications Ltd.",
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:52:04"
+  },
+  "3478": {
+    "op_id": "3478",
+    "dis_client_text": "Ok Network & Communications, 14.32.0000.702.45.646.21.046",
+    "iigs": [
+      "Exabyte Ltd.",
+      "Fiber@Home Global Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:52:06"
+  },
+  "3480": {
+    "op_id": "3480",
+    "dis_client_text": "Speed Touch Network & Technology, 14.32.0000.702.45.648.21.048",
+    "iigs": [
+      "Summit Communications Ltd.",
+      "Fiber@Home Global Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:52:10"
+  },
+  "3489": {
+    "op_id": "3489",
+    "dis_client_text": "Chapai Internet & IT Centre, 14.32.0000.702.45.657.22.058",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:52:12"
+  },
+  "3492": {
+    "op_id": "3492",
+    "dis_client_text": "EDGE Speed, 14.32.0000.702.45.660.22.061",
+    "iigs": [
+      "Summit Communications Ltd.",
+      "Windstream Communication Ltd.",
+      "Level3 Carrier Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:52:15"
+  },
+  "3494": {
+    "op_id": "3494",
+    "dis_client_text": "M/S Star Internet Services, 14.32.0000.702.45.662.22.076",
+    "iigs": [
+      "Level3 Carrier Ltd.",
+      "Earth Telecommunication (Pvt.) Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:52:19"
+  },
+  "3495": {
+    "op_id": "3495",
+    "dis_client_text": "Future Net Solution, 14.32.0000.702.45.663.22.065",
+    "iigs": [
+      "Exabyte Ltd.",
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:52:23"
+  },
+  "3498": {
+    "op_id": "3498",
+    "dis_client_text": "Dhaka Internet, 14.32.0000.702.45.666.22.064",
+    "iigs": [
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:52:27"
+  },
+  "3500": {
+    "op_id": "3500",
+    "dis_client_text": "Cue Club Technology, 14.32.0000.702.45.668.22.079",
+    "iigs": [
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:52:31"
+  },
+  "3504": {
+    "op_id": "3504",
+    "dis_client_text": "M/s. Asian Network, 14.32.0000.702.45.672.22.080",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:52:41"
+  },
+  "3516": {
+    "op_id": "3516",
+    "dis_client_text": "Next Gen Online, 14.32.0000.702.45.684.22.067",
+    "iigs": [
+      "Fiber@Home Global Ltd.",
+      "Bangladesh Telecommunications Company Limited",
+      "Summit Communications Ltd.",
+      "Windstream Communication Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:52:46"
+  },
+  "3524": {
+    "op_id": "3524",
+    "dis_client_text": "Feni cyber Link, 14.32.0000.702.45.692.22.094",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:52:48"
+  },
+  "3526": {
+    "op_id": "3526",
+    "dis_client_text": "Yellow Net, 14.32.0000.702.45.694.22.084",
+    "iigs": [
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:52:51"
+  },
+  "3531": {
+    "op_id": "3531",
+    "dis_client_text": "Telewire Communications, 14.32.0000.702.45.699.22.097",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:52:55"
+  },
+  "3562": {
+    "op_id": "3562",
+    "dis_client_text": "Touch Online, 14.32.0000.702.45.730.22.125",
+    "iigs": [
+      "Mango Teleservices Ltd.",
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:53:00"
+  },
+  "3573": {
+    "op_id": "3573",
+    "dis_client_text": "Click Earth Online, 14.32.0000.702.45.741.22.141",
+    "iigs": [
+      "Exabyte Ltd.",
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:53:07"
+  },
+  "3586": {
+    "op_id": "3586",
+    "dis_client_text": "M/s. Dhaka Information Technology, 14.32.0000.702.46.022.20.386",
+    "iigs": [
+      "BD Hub Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:53:08"
+  },
+  "3592": {
+    "op_id": "3592",
+    "dis_client_text": "M/s. Saiba International, 14.32.0000.702.46.026.19.136",
+    "iigs": [
+      "Peerex Networks Limited",
+      "Max Hub Limited"
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:53:10"
+  },
+  "3602": {
+    "op_id": "3602",
+    "dis_client_text": "M/s. 29 Communication, 14.32.0000.702.46.034.19.516",
+    "iigs": [
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:53:14"
+  },
+  "3620": {
+    "op_id": "3620",
+    "dis_client_text": "M/s. Microwin Cyber Café, 14.32.0000.702.46.057.19.517",
+    "iigs": [
+      "Windstream Communication Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:53:16"
+  },
+  "3692": {
+    "op_id": "3692",
+    "dis_client_text": "Delight Broadband Service, 14.32.0000.007.56.180.15.192",
+    "iigs": [
+      "VIRGO Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:53:18"
+  },
+  "3710": {
+    "op_id": "3710",
+    "dis_client_text": "Tuhin Enterprise, 14.32.0000.702.46.786.20.962",
+    "iigs": [
+      "Summit Communications Ltd.",
+      "Level3 Carrier Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:53:20"
+  },
+  "3728": {
+    "op_id": "3728",
+    "dis_client_text": "BD Online Systems, 14.32.0000.702.46.183.19.799",
+    "iigs": [
+      "Global Fair Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:53:22"
+  },
+  "3730": {
+    "op_id": "3730",
+    "dis_client_text": "BD Online Systems, 14.32.0000.702.46.183.19.801",
+    "iigs": [
+      "Fiber@Home Global Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:53:23"
+  },
+  "3757": {
+    "op_id": "3757",
+    "dis_client_text": "Best Online, 14.32.0000.702.46.205.20.784",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:53:26"
+  },
+  "3759": {
+    "op_id": "3759",
+    "dis_client_text": "J H Global Technology, 14.32.0000.702.46.207.20.756",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:53:28"
+  },
+  "3761": {
+    "op_id": "3761",
+    "dis_client_text": "Sun Online, 14.32.0000.007.56.364.16.254",
+    "iigs": [],
+    "source_month": "No Data",
+    "updated_at": "2026-11-01 17:33:19"
+  },
+  "3766": {
+    "op_id": "3766",
+    "dis_client_text": "Asianet Online Services, 14.32.0000.007.56.276.16.248",
+    "iigs": [
+      "Summit Communications Ltd.",
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:53:34"
+  },
+  "3778": {
+    "op_id": "3778",
+    "dis_client_text": "Cnet Communication, 14.32.0000.702.46.222.20.208",
+    "iigs": [
+      "Coronet Corporation Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:53:37"
+  },
+  "3779": {
+    "op_id": "3779",
+    "dis_client_text": "Dhaka Online, 14.32.0000.702.46.223.20.010",
+    "iigs": [
+      "Greenmax Technologies Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:53:38"
+  },
+  "3812": {
+    "op_id": "3812",
+    "dis_client_text": "Low Speed Network, 14.32.0000.702.46.246.20.788",
+    "iigs": [
+      "Rego Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:53:41"
+  },
+  "3833": {
+    "op_id": "3833",
+    "dis_client_text": "Akbor Power Net, 14.32.0000.702.46.264.20.001",
+    "iigs": [
+      "Earth Telecommunication (Pvt.) Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:53:45"
+  },
+  "3881": {
+    "op_id": "3881",
+    "dis_client_text": "Adel Online Technology, 14.32.0000.702.46.300.19.615",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:53:47"
+  },
+  "3899": {
+    "op_id": "3899",
+    "dis_client_text": "Jatrabari Online, 14.32.0000.702.46.314.20.116",
+    "iigs": [
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:53:50"
+  },
+  "3944": {
+    "op_id": "3944",
+    "dis_client_text": "Uttara Online BD, 14.32.0000.702.46.347.19.372",
+    "iigs": [
+      "BD Hub Ltd.",
+      "Exabyte Ltd.",
+      "Windstream Communication Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:53:52"
+  },
+  "3957": {
+    "op_id": "3957",
+    "dis_client_text": "Rodela Online, 14.32.0000.702.46.355.19.406",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:53:55"
+  },
+  "4000": {
+    "op_id": "4000",
+    "dis_client_text": "Cyber Link Computer, 14.32.0000.702.46.387.20.880",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:53:58"
+  },
+  "4022": {
+    "op_id": "4022",
+    "dis_client_text": "Smirity Cable, 14.32.0000.702.46.404.19.675",
+    "iigs": [],
+    "source_month": "No Data",
+    "updated_at": "2026-11-01 12:53:59"
+  },
+  "4037": {
+    "op_id": "4037",
+    "dis_client_text": "Rahaman Corporation, 14.32.0000.702.46.417.19.361",
+    "iigs": [
+      "Greenmax Technologies Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:54:01"
+  },
+  "4042": {
+    "op_id": "4042",
+    "dis_client_text": "Maa Telecom B Online, 14.32.0000.702.46.422.19.226",
+    "iigs": [
+      "Windstream Communication Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:54:03"
+  },
+  "4044": {
+    "op_id": "4044",
+    "dis_client_text": "Cyberlink Online, 14.32.0000.702.46.424.19.456",
+    "iigs": [
+      "Level3 Carrier Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:54:06"
+  },
+  "4046": {
+    "op_id": "4046",
+    "dis_client_text": "Tlink Communication, 14.32.0000.702.46.425.19.663",
+    "iigs": [
+      "Velocity Networks Limited"
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:54:08"
+  },
+  "4048": {
+    "op_id": "4048",
+    "dis_client_text": "Net Express, 14.32.0000.702.46.426.19.173",
+    "iigs": [
+      "Max Hub Limited"
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:54:11"
+  },
+  "4052": {
+    "op_id": "4052",
+    "dis_client_text": "Uturn Internet Communication, 14.32.0000.702.46.430.19.451",
+    "iigs": [
+      "Level3 Carrier Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:54:13"
+  },
+  "4060": {
+    "op_id": "4060",
+    "dis_client_text": "Smart Online, 14.32.0000.702.46.434.19.262",
+    "iigs": [
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:54:16"
+  },
+  "4080": {
+    "op_id": "4080",
+    "dis_client_text": "Easy Network, 14.32.0000.702.46.451.20.581",
+    "iigs": [
+      "Fiber@Home Global Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:54:17"
+  },
+  "4109": {
+    "op_id": "4109",
+    "dis_client_text": "Himel Online, 14.32.0000.702.46.812.22.893",
+    "iigs": [
+      "Rego Communications Ltd.",
+      "VIRGO Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:54:20"
+  },
+  "4125": {
+    "op_id": "4125",
+    "dis_client_text": "SM Online System, 14.32.0000.702.46.492.20.708",
+    "iigs": [
+      "Global Fair Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:54:21"
+  },
+  "4128": {
+    "op_id": "4128",
+    "dis_client_text": "Speednet Communication, 14.32.0000.702.46.495.20.841",
+    "iigs": [],
+    "source_month": "No Data",
+    "updated_at": "2026-11-01 12:54:22"
+  },
+  "4140": {
+    "op_id": "4140",
+    "dis_client_text": "Dhaka Net, 14.32.0000.702.46.506.19.256",
+    "iigs": [
+      "BD Hub Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:54:24"
+  },
+  "4153": {
+    "op_id": "4153",
+    "dis_client_text": "Chocolate Broadband, 14.32.0000.702.46.517.19.014",
+    "iigs": [
+      "Peerex Networks Limited"
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:54:28"
+  },
+  "4160": {
+    "op_id": "4160",
+    "dis_client_text": "Alicon Network, 14.32.0000.702.46.524.19.640",
+    "iigs": [
+      "Windstream Communication Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:54:31"
+  },
+  "4193": {
+    "op_id": "4193",
+    "dis_client_text": "Fast Link BD Dot Net, 14.32.0000.702.46.551.19.023",
+    "iigs": [
+      "Fiber@Home Global Ltd.",
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:54:34"
+  },
+  "4223": {
+    "op_id": "4223",
+    "dis_client_text": "Rocket Internet Service, 14.32.0000.702.46.577.19.192",
+    "iigs": [
+      "Max Hub Limited"
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:54:34"
+  },
+  "4236": {
+    "op_id": "4236",
+    "dis_client_text": "Ifosource Broadband Internet, 14.32.0000.702.46.587.19.008",
+    "iigs": [
+      "Windstream Communication Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:54:36"
+  },
+  "4259": {
+    "op_id": "4259",
+    "dis_client_text": "Amader Net Ad Communication, 14.32.0000.702.46.607.19.899",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:54:39"
+  },
+  "4261": {
+    "op_id": "4261",
+    "dis_client_text": "Rapid Broadband, 14.32.0000.007.59.215.18.650",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:54:40"
+  },
+  "4295": {
+    "op_id": "4295",
+    "dis_client_text": "Green Link Networks, 14.32.0000.702.46.643.19.868",
+    "iigs": [
+      "Level3 Carrier Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:54:43"
+  },
+  "4335": {
+    "op_id": "4335",
+    "dis_client_text": "Que Tel BD, 14.32.0000.702.46.683.19.371",
+    "iigs": [
+      "Startrek Telecom Ltd",
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:54:45"
+  },
+  "4351": {
+    "op_id": "4351",
+    "dis_client_text": "Polly IT, 14.32.0000.702.46.699.19.166",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:54:48"
+  },
+  "4374": {
+    "op_id": "4374",
+    "dis_client_text": "Mirpur DoHs Digital Network, 14.32.0000.702.46.722.20.622",
+    "iigs": [
+      "Peerex Networks Limited",
+      "BD Hub Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:54:51"
+  },
+  "4378": {
+    "op_id": "4378",
+    "dis_client_text": "Ismail IT Solution, 14.32.0000.702.46.726.20.916",
+    "iigs": [
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:54:53"
+  },
+  "4385": {
+    "op_id": "4385",
+    "dis_client_text": "Cloud BD Communication, 14.32.0000.702.46.732.20.450",
+    "iigs": [
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:54:55"
+  },
+  "4390": {
+    "op_id": "4390",
+    "dis_client_text": "Crystal International, 14.32.0000.702.46.737.20.203",
+    "iigs": [
+      "Bangladesh Telecommunications Company Limited"
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:54:57"
+  },
+  "4395": {
+    "op_id": "4395",
+    "dis_client_text": "C&C Communication, 14.32.0000.702.46.742.19.165",
+    "iigs": [
+      "Earth Telecommunication (Pvt.) Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:55:00"
+  },
+  "4396": {
+    "op_id": "4396",
+    "dis_client_text": "AS Online, 14.32.0000.702.46.743.20.593",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:55:03"
+  },
+  "4405": {
+    "op_id": "4405",
+    "dis_client_text": "Gnet Internet Network Inc., 14.32.0000.702.46.752.20.445",
+    "iigs": [
+      "Level3 Carrier Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:55:05"
+  },
+  "4417": {
+    "op_id": "4417",
+    "dis_client_text": "AXN Online, 14.32.0000.702.46.828.22.935",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:55:08"
+  },
+  "4448": {
+    "op_id": "4448",
+    "dis_client_text": "SS Network, 14.32.0000.702.46.795.20.701",
+    "iigs": [
+      "Peerex Networks Limited"
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:55:11"
+  },
+  "4456": {
+    "op_id": "4456",
+    "dis_client_text": "Hi-Tec Enterprise, 14.32.0000.702.46.803.22.854",
+    "iigs": [
+      "Summit Communications Ltd.",
+      "Exabyte Ltd.",
+      "Fiber@Home Global Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:55:14"
+  },
+  "4457": {
+    "op_id": "4457",
+    "dis_client_text": "Turag Net, 14.32.0000.702.46.804.19.103",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:55:17"
+  },
+  "4458": {
+    "op_id": "4458",
+    "dis_client_text": "JBH Net, 14.32.0000.702.46.805.20.421",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:55:20"
+  },
+  "4480": {
+    "op_id": "4480",
+    "dis_client_text": "Signature International, 14.32.0000.702.45.751.23.151",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:55:23"
+  },
+  "4489": {
+    "op_id": "4489",
+    "dis_client_text": "Mahdi Internet, 14.32.0000.007.59.339.18.828",
+    "iigs": [
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:55:25"
+  },
+  "4508": {
+    "op_id": "4508",
+    "dis_client_text": "Simplify IT, 14.32.0000.702.46.825.22.930",
+    "iigs": [
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:55:27"
+  },
+  "4509": {
+    "op_id": "4509",
+    "dis_client_text": "MS Online, 14.32.0000.702.46.856.20.195",
+    "iigs": [
+      "Max Hub Limited",
+      "Mango Teleservices Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:55:30"
+  },
+  "4516": {
+    "op_id": "4516",
+    "dis_client_text": "JoSbd Online, 14.32.0000.702.46.863.20.046",
+    "iigs": [
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:55:33"
+  },
+  "4542": {
+    "op_id": "4542",
+    "dis_client_text": "Onion Net Zone, 14.32.0000.702.46.006.21.268",
+    "iigs": [
+      "Greenmax Technologies Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:55:35"
+  },
+  "4598": {
+    "op_id": "4598",
+    "dis_client_text": "PR Network, 14.32.0000.702.46.062.21.324",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:55:37"
+  },
+  "4608": {
+    "op_id": "4608",
+    "dis_client_text": "Tufan Online, 14.32.0000.702.46.072.21.334",
+    "iigs": [
+      "Fiber@Home Global Ltd.",
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:55:39"
+  },
+  "4616": {
+    "op_id": "4616",
+    "dis_client_text": "J.P. Network BD, 14.32.0000.702.46.080.21.342",
+    "iigs": [
+      "Level3 Carrier Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:55:41"
+  },
+  "4623": {
+    "op_id": "4623",
+    "dis_client_text": "M.E.B. Technology, 14.32.0000.702.46.087.21.474",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:55:43"
+  },
+  "4639": {
+    "op_id": "4639",
+    "dis_client_text": "Raida Online, 14.32.0000.702.46.103.22.490",
+    "iigs": [
+      "Summit Communications Ltd.",
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:55:48"
+  },
+  "4649": {
+    "op_id": "4649",
+    "dis_client_text": "One Touch Online, 14.32.0000.702.46.113.22.500",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:55:50"
+  },
+  "4654": {
+    "op_id": "4654",
+    "dis_client_text": "U MAX Internet, 14.32.0000.702.46.118.22.718",
+    "iigs": [
+      "Rego Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:55:53"
+  },
+  "4659": {
+    "op_id": "4659",
+    "dis_client_text": "Ayaan Communication, 14.32.0000.702.46.123.22.723",
+    "iigs": [
+      "Windstream Communication Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:55:56"
+  },
+  "4663": {
+    "op_id": "4663",
+    "dis_client_text": "Breeze Online, 14.32.0000.702.46.127.22.727",
+    "iigs": [
+      "Windstream Communication Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:55:58"
+  },
+  "4705": {
+    "op_id": "4705",
+    "dis_client_text": "Ghatail Online, 14.32.0000.007.59.859.18.436",
+    "iigs": [
+      "Fiber@Home Global Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:56:02"
+  },
+  "4729": {
+    "op_id": "4729",
+    "dis_client_text": "Bright Star Network, 14.32.0000.702.47.521.21.152",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:56:05"
+  },
+  "4733": {
+    "op_id": "4733",
+    "dis_client_text": "Victorians Online, 14.32.0000.702.47.494.21.180",
+    "iigs": [
+      "Summit Communications Ltd.",
+      "Earth Telecommunication (Pvt.) Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:56:08"
+  },
+  "4738": {
+    "op_id": "4738",
+    "dis_client_text": "Link Today Internet, 14.32.0000.702.47.258.20.037",
+    "iigs": [
+      "Earth Telecommunication (Pvt.) Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:56:17"
+  },
+  "4745": {
+    "op_id": "4745",
+    "dis_client_text": "HK Net, 14.32.0000.702.47.297.20.109",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:56:19"
+  },
+  "4762": {
+    "op_id": "4762",
+    "dis_client_text": "Alvi Online, 14.32.0000.702.47.545.21.185",
+    "iigs": [
+      "Windstream Communication Ltd.",
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:56:23"
+  },
+  "4798": {
+    "op_id": "4798",
+    "dis_client_text": "Excellence Dot Net, 14.32.0000.702.47.457.21.409",
+    "iigs": [
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:56:24"
+  },
+  "4807": {
+    "op_id": "4807",
+    "dis_client_text": "Dream Touch Online, 14.32.0000.702.47.516.21.396",
+    "iigs": [
+      "Level3 Carrier Ltd.",
+      "Windstream Communication Ltd.",
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:56:26"
+  },
+  "4821": {
+    "op_id": "4821",
+    "dis_client_text": "Baipail Network and Internet Service, 14.32.0000.702.47.806.22.439",
+    "iigs": [
+      "Rego Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:56:28"
+  },
+  "4854": {
+    "op_id": "4854",
+    "dis_client_text": "Bismillah IT Solution, 14.32.0000.702.47.029.23.529",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:56:31"
+  },
+  "4861": {
+    "op_id": "4861",
+    "dis_client_text": "Mim Online, 14.32.0000.702.47.041.23.546",
+    "iigs": [
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:56:34"
+  },
+  "4863": {
+    "op_id": "4863",
+    "dis_client_text": "ANS Network, 14.32.0000.702.47.302.20.550",
+    "iigs": [
+      "Fiber@Home Global Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:56:37"
+  },
+  "4885": {
+    "op_id": "4885",
+    "dis_client_text": "Fatickchari Communication Network, 14.32.0000.702.47.063.23.576",
+    "iigs": [
+      "Level3 Carrier Ltd.",
+      "Peerex Networks Limited",
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:56:44"
+  },
+  "4904": {
+    "op_id": "4904",
+    "dis_client_text": "Bandhu Network System, 14.32.0000.702.47.091.23.603",
+    "iigs": [
+      "Windstream Communication Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:56:48"
+  },
+  "4910": {
+    "op_id": "4910",
+    "dis_client_text": "Janani Technology, 14.32.0000.702.47.507.21.615",
+    "iigs": [
+      "Level3 Carrier Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:56:50"
+  },
+  "4937": {
+    "op_id": "4937",
+    "dis_client_text": "Friends Cable Net, 14.32.0000.007.59.872.18.429",
+    "iigs": [
+      "Level3 Carrier Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:56:52"
+  },
+  "4945": {
+    "op_id": "4945",
+    "dis_client_text": "Web Connection, 14.32.0000.702.47.493.21.669",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:56:56"
+  },
+  "4950": {
+    "op_id": "4950",
+    "dis_client_text": "M/s. Today Vision Internet & Dish Network, 14.32.0000.702.47.375.21.143",
+    "iigs": [
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:56:59"
+  },
+  "4967": {
+    "op_id": "4967",
+    "dis_client_text": "D Net Service, 14.32.0000.702.47.347.20.430",
+    "iigs": [
+      "Exabyte Ltd.",
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:57:00"
+  },
+  "4969": {
+    "op_id": "4969",
+    "dis_client_text": "Gazipur Network System, 14.32.0000.702.47.333.20.424",
+    "iigs": [
+      "Peerex Networks Limited"
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:57:06"
+  },
+  "4971": {
+    "op_id": "4971",
+    "dis_client_text": "NS Net Connection, 14.32.0000.702.47.092.22.310",
+    "iigs": [
+      "Fiber@Home Global Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:57:10"
+  },
+  "4973": {
+    "op_id": "4973",
+    "dis_client_text": "Fast BD Online, 14.32.0000.702.47.111.19.039",
+    "iigs": [
+      "Startrek Telecom Ltd"
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:57:12"
+  },
+  "4981": {
+    "op_id": "4981",
+    "dis_client_text": "Connect 3, 14.32.0000.702.47.038.21.120",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:57:15"
+  },
+  "4988": {
+    "op_id": "4988",
+    "dis_client_text": "Rocket Internet Service, 14.32.0000.702.47.113.19.320",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:57:17"
+  },
+  "4991": {
+    "op_id": "4991",
+    "dis_client_text": "Alpha Sattelite Network, 14.32.0000.702.47.029.19.323",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:57:20"
+  },
+  "4992": {
+    "op_id": "4992",
+    "dis_client_text": "Link up Communication, 14.32.0000.007.56.639.18.073",
+    "iigs": [
+      "Earth Telecommunication (Pvt.) Ltd.",
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:57:24"
+  },
+  "5000": {
+    "op_id": "5000",
+    "dis_client_text": "City Online, 14.32.0000.702.47.061.21.330",
+    "iigs": [
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:57:26"
+  },
+  "5001": {
+    "op_id": "5001",
+    "dis_client_text": "Momota Technologies, 14.32.0000.702.47.030.20.331",
+    "iigs": [
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:57:29"
+  },
+  "5002": {
+    "op_id": "5002",
+    "dis_client_text": "Friendi Online, 14.32.0000.702.47.064.22.332",
+    "iigs": [],
+    "source_month": "No Data",
+    "updated_at": "2026-11-01 17:33:47"
+  },
+  "5004": {
+    "op_id": "5004",
+    "dis_client_text": "Faster Communication, 14.32.0000.702.47.039.19.334",
+    "iigs": [
+      "Exabyte Ltd.",
+      "Fiber@Home Global Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:57:33"
+  },
+  "5005": {
+    "op_id": "5005",
+    "dis_client_text": "Mohammadia Corporation, 14.32.0000.702.47.062.19.335",
+    "iigs": [
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:57:37"
+  },
+  "5006": {
+    "op_id": "5006",
+    "dis_client_text": "Al Amin Online, 14.32.0000.702.47.056.21.336",
+    "iigs": [
+      "Windstream Communication Ltd.",
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:57:38"
+  },
+  "5011": {
+    "op_id": "5011",
+    "dis_client_text": "AMR Net, 14.32.0000.702.47.049.20.341",
+    "iigs": [
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:57:41"
+  },
+  "5025": {
+    "op_id": "5025",
+    "dis_client_text": "Universal Friends Communication Network (Ufc. Net), 14.32.0000.702.47.020.21.358",
+    "iigs": [
+      "Summit Communications Ltd.",
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:57:44"
+  },
+  "5028": {
+    "op_id": "5028",
+    "dis_client_text": "TS Network, 14.32.0000.702.47.098.19.365",
+    "iigs": [
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:57:47"
+  },
+  "5033": {
+    "op_id": "5033",
+    "dis_client_text": "S.A Online, 14.32.0000.702.47.120.19.370",
+    "iigs": [
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:57:49"
+  },
+  "5038": {
+    "op_id": "5038",
+    "dis_client_text": "Spider Net, 14.32.0000.702.47.043.22.376",
+    "iigs": [
+      "Windstream Communication Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:57:51"
+  },
+  "5041": {
+    "op_id": "5041",
+    "dis_client_text": "Tongi On Line, 14.32.0000.702.47.099.19.380",
+    "iigs": [
+      "Greenmax Technologies Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:57:53"
+  },
+  "5044": {
+    "op_id": "5044",
+    "dis_client_text": "T.G. Network, 14.32.0000.702.47.106.19.383",
+    "iigs": [],
+    "source_month": "No Data",
+    "updated_at": "2026-11-01 17:33:50"
+  },
+  "5056": {
+    "op_id": "5056",
+    "dis_client_text": "Net City, 14.32.0000.702.47.079.22.302",
+    "iigs": [
+      "Windstream Communication Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:57:57"
+  },
+  "5057": {
+    "op_id": "5057",
+    "dis_client_text": "Airnet Broadband Internet, 14.32.0000.702.47.084.22.304",
+    "iigs": [
+      "Earth Telecommunication (Pvt.) Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:57:58"
+  },
+  "5166": {
+    "op_id": "5166",
+    "dis_client_text": "Progressive Enterprise, 14.32.0000.702.47.450.21.92",
+    "iigs": [
+      "Summit Communications Ltd.",
+      "Windstream Communication Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:58:01"
+  },
+  "5185": {
+    "op_id": "5185",
+    "dis_client_text": "J.K. Online, 14.32.0000.702.47.491.21.141",
+    "iigs": [
+      "Fiber@Home Global Ltd.",
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:58:03"
+  },
+  "5195": {
+    "op_id": "5195",
+    "dis_client_text": "Friends Digital Fiber Network, 14.32.0000.702.47.546.21.205",
+    "iigs": [
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:58:06"
+  },
+  "5215": {
+    "op_id": "5215",
+    "dis_client_text": "Six Young Boys Online Network, 14.32.0000.702.47.587.22.138",
+    "iigs": [
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:58:07"
+  },
+  "5227": {
+    "op_id": "5227",
+    "dis_client_text": "M Amin Network, 14.32.0000.702.47.620.22.164",
+    "iigs": [
+      "Summit Communications Ltd.",
+      "Peerex Networks Limited"
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:58:10"
+  },
+  "5234": {
+    "op_id": "5234",
+    "dis_client_text": "M Meherab Internet, 14.32.0000.702.47.616.22.160",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:58:12"
+  },
+  "5256": {
+    "op_id": "5256",
+    "dis_client_text": "Speed Net Connection, 14.32.0000.007.59.545.17.123",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:58:15"
+  },
+  "5260": {
+    "op_id": "5260",
+    "dis_client_text": "Relation Cable Network, 14.32.0000.007.59.610.17.169",
+    "iigs": [
+      "Exabyte Ltd.",
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:58:21"
+  },
+  "5274": {
+    "op_id": "5274",
+    "dis_client_text": "C1 Communication, 14.32.0000.007.59.889.18.461",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:58:23"
+  },
+  "5288": {
+    "op_id": "5288",
+    "dis_client_text": "Universe Link, 14.32.0000.007.60.035.19.618",
+    "iigs": [
+      "Exabyte Ltd.",
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:58:28"
+  },
+  "5289": {
+    "op_id": "5289",
+    "dis_client_text": "DSP, 14.32.0000.702.47.641.22.179",
+    "iigs": [
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:58:30"
+  },
+  "5290": {
+    "op_id": "5290",
+    "dis_client_text": "Razib Communication, 14.32.0000.702.47.642.22.180",
+    "iigs": [
+      "Fiber@Home Global Ltd.",
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:58:32"
+  },
+  "5297": {
+    "op_id": "5297",
+    "dis_client_text": "Smart Link, 14.32.0000.702.47.672.22.209",
+    "iigs": [],
+    "source_month": "No Data",
+    "updated_at": "2026-11-01 17:33:51"
+  },
+  "5301": {
+    "op_id": "5301",
+    "dis_client_text": "Minju Online, 14.32.0000.702.47.678.22.215",
+    "iigs": [
+      "Summit Communications Ltd.",
+      "Level3 Carrier Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:58:35"
+  },
+  "5309": {
+    "op_id": "5309",
+    "dis_client_text": "Blue Communication, 14.32.0000.702.47.700.22.237",
+    "iigs": [
+      "Windstream Communication Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:58:37"
+  },
+  "5315": {
+    "op_id": "5315",
+    "dis_client_text": "N.R.S. Enterprise, 14.32.0000.702.47.713.22.250",
+    "iigs": [
+      "Earth Telecommunication (Pvt.) Ltd.",
+      "Fiber@Home Global Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:58:39"
+  },
+  "5328": {
+    "op_id": "5328",
+    "dis_client_text": "NR Link, 14.32.0000.702.47.760.22.297",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:58:41"
+  },
+  "5341": {
+    "op_id": "5341",
+    "dis_client_text": "Chandgaon Net Communication, 14.32.0000.702.47.698.22.235",
+    "iigs": [
+      "Fiber@Home Global Ltd.",
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:58:42"
+  },
+  "5342": {
+    "op_id": "5342",
+    "dis_client_text": "M/S Roms Network, 14.32.0000.702.47.703.22.240",
+    "iigs": [
+      "Windstream Communication Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:58:45"
+  },
+  "5392": {
+    "op_id": "5392",
+    "dis_client_text": "KLIK X, 14.32.0000.702.47.310.20.512",
+    "iigs": [
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:58:49"
+  },
+  "5406": {
+    "op_id": "5406",
+    "dis_client_text": "Gangachara Online, 14.32.0000.702.47.116.23.639",
+    "iigs": [
+      "Windstream Communication Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:58:51"
+  },
+  "5407": {
+    "op_id": "5407",
+    "dis_client_text": "IP Internet, 14.32.0000.702.47.123.23.649",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:58:53"
+  },
+  "5408": {
+    "op_id": "5408",
+    "dis_client_text": "Ideal Network, 14.32.0000.702.47.478.21.663",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:58:56"
+  },
+  "5418": {
+    "op_id": "5418",
+    "dis_client_text": "Sync IT Bangladesh, 14.32.0000.702.47.017.19.347",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:58:57"
+  },
+  "5471": {
+    "op_id": "5471",
+    "dis_client_text": "Friends Communication Enterprise, 14.32.0000.702.47.741.22.278",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:58:58"
+  },
+  "5479": {
+    "op_id": "5479",
+    "dis_client_text": "Area Link BD, 14.32.0000.702.47.770.22.1010",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:59:01"
+  },
+  "5482": {
+    "op_id": "5482",
+    "dis_client_text": "Airnet Communication, 14.32.0000.702.47.468.21.115",
+    "iigs": [
+      "Level3 Carrier Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:59:03"
+  },
+  "5534": {
+    "op_id": "5534",
+    "dis_client_text": "Skynet Broadband Service, 14.32.0000.702.47.291.20.690",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:59:05"
+  },
+  "5536": {
+    "op_id": "5536",
+    "dis_client_text": "RT Traders, 14.32.0000.702.47.785.22.407",
+    "iigs": [
+      "Coronet Corporation Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:59:06"
+  },
+  "5540": {
+    "op_id": "5540",
+    "dis_client_text": "DDN Communication, 14.32.0000.702.47.015.23.502",
+    "iigs": [
+      "Bangladesh Telecommunications Company Limited"
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:59:08"
+  },
+  "5546": {
+    "op_id": "5546",
+    "dis_client_text": "Jaan Computer, 14.32.0000.702.47.292.20.561",
+    "iigs": [
+      "Summit Communications Ltd.",
+      "Level3 Carrier Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:59:09"
+  },
+  "5625": {
+    "op_id": "5625",
+    "dis_client_text": "Modern Communication, 14.32.0000.702.47.685.22.222",
+    "iigs": [
+      "Earth Telecommunication (Pvt.) Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 12:59:11"
+  },
+  "5695": {
+    "op_id": "5695",
+    "dis_client_text": "Adamdighi Online, 14.32.0000.702.47.573.21.126",
+    "iigs": [
+      "Fiber@Home Global Ltd.",
+      "Level3 Carrier Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 14:46:07"
+  },
+  "5708": {
+    "op_id": "5708",
+    "dis_client_text": "Goni Communication, 14.32.0000.007.59.576.17.240",
+    "iigs": [
+      "Peerex Networks Limited"
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 14:46:10"
+  },
+  "5712": {
+    "op_id": "5712",
+    "dis_client_text": "7t1 Communication, 14.32.0000.007.59.856.18.434",
+    "iigs": [
+      "Global Fair Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 14:46:13"
+  },
+  "5751": {
+    "op_id": "5751",
+    "dis_client_text": "FIC Technologies, 14.32.0000.702.46.157.22.805",
+    "iigs": [
+      "Exabyte Ltd.",
+      "Fiber@Home Global Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 14:46:15"
+  },
+  "5764": {
+    "op_id": "5764",
+    "dis_client_text": "Kazi Net, 14.32.0000.702.46.167.22.815",
+    "iigs": [
+      "Rego Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 14:46:17"
+  },
+  "5770": {
+    "op_id": "5770",
+    "dis_client_text": "Sustainable Development Networking Foundation (SDNF), BTRC/LL/ISP-Nationwide(2)SDNF/2008-63",
+    "iigs": [
+      "Windstream Communication Ltd.",
+      "Summit Communications Ltd.",
+      "Fiber@Home Global Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 14:46:27"
+  },
+  "5815": {
+    "op_id": "5815",
+    "dis_client_text": "Three dot net, 14.32.0000.702.47.160.23.715",
+    "iigs": [
+      "Windstream Communication Ltd.",
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 14:46:32"
+  },
+  "5833": {
+    "op_id": "5833",
+    "dis_client_text": "Voltz System & Solutions, 14.32.0000.702.47.171.23.719",
+    "iigs": [
+      "Fiber@Home Global Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 14:46:34"
+  },
+  "5848": {
+    "op_id": "5848",
+    "dis_client_text": "KR Online, 14.32.0000.702.47.173.23.721",
+    "iigs": [
+      "Level3 Carrier Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 14:46:37"
+  },
+  "5966": {
+    "op_id": "5966",
+    "dis_client_text": "T Network, 14.32.0000.702.47.127.23.655",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 14:46:39"
+  },
+  "5985": {
+    "op_id": "5985",
+    "dis_client_text": "S.S.R.B Internet Services, 14.32.0000.702.45.749.23.149",
+    "iigs": [
+      "Level3 Carrier Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 14:46:41"
+  },
+  "5988": {
+    "op_id": "5988",
+    "dis_client_text": "Cherry Enterprice, 14.32.0000.702.45.748.23.148",
+    "iigs": [
+      "Coronet Corporation Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 14:46:42"
+  },
+  "6014": {
+    "op_id": "6014",
+    "dis_client_text": "Star network, 14.32.0000.702.46.149.20.828",
+    "iigs": [
+      "Global Fair Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 14:46:44"
+  },
+  "2948": {
+    "op_id": "2948",
+    "dis_client_text": "IP Communications Limited, 14.32.0000.702.45.116.21.016",
+    "iigs": [
+      "VIRGO Communications Ltd.",
+      "Earth Telecommunication (Pvt.) Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 17:32:03"
+  },
+  "3081": {
+    "op_id": "3081",
+    "dis_client_text": "Best Communication, 14.32.0000.007.55.756.16.138",
+    "iigs": [
+      "Earth Telecommunication (Pvt.) Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 17:32:04"
+  },
+  "3096": {
+    "op_id": "3096",
+    "dis_client_text": "Sky Systems Ltd., 14.32.0000.702.45.327.21.028",
+    "iigs": [
+      "Bangladesh Telecommunications Company Limited"
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 17:32:06"
+  },
+  "3113": {
+    "op_id": "3113",
+    "dis_client_text": "Star Communication, 14.32.0000.702.45.499.22.200",
+    "iigs": [
+      "Summit Communications Ltd.",
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 17:32:17"
+  },
+  "3163": {
+    "op_id": "3163",
+    "dis_client_text": "SkyNet Communications, 14.32.0000.702.45.398.21.099",
+    "iigs": [
+      "Peerex Networks Limited",
+      "Windstream Communication Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 17:32:21"
+  },
+  "3174": {
+    "op_id": "3174",
+    "dis_client_text": "Neefit Ltd., 14.32.0000.702.45.364.21.065",
+    "iigs": [
+      "Summit Communications Ltd.",
+      "Windstream Communication Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 17:32:29"
+  },
+  "3232": {
+    "op_id": "3232",
+    "dis_client_text": "Ideal Communications Network, 14.32.0000.702.45.397.21.098",
+    "iigs": [
+      "Summit Communications Ltd.",
+      "Earth Telecommunication (Pvt.) Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 17:32:38"
+  },
+  "3287": {
+    "op_id": "3287",
+    "dis_client_text": "Cnet Broadband, 14.32.0000.702.45.431.22.132",
+    "iigs": [
+      "Summit Communications Ltd.",
+      "Level3 Carrier Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 17:32:41"
+  },
+  "3365": {
+    "op_id": "3365",
+    "dis_client_text": "City Online Limited., 14.32.0000.702.45.321.21.022",
+    "iigs": [
+      "Summit Communications Ltd.",
+      "Fiber@Home Global Ltd.",
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 17:32:50"
+  },
+  "3402": {
+    "op_id": "3402",
+    "dis_client_text": "BD Networks, 14.32.0000.702.45.357.21.058",
+    "iigs": [
+      "Summit Communications Ltd.",
+      "Level3 Carrier Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 17:32:54"
+  },
+  "3406": {
+    "op_id": "3406",
+    "dis_client_text": "U-Turn Technologies, 14.32.0000.702.45.471.22.172",
+    "iigs": [
+      "Fiber@Home Global Ltd.",
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 17:33:04"
+  },
+  "3409": {
+    "op_id": "3409",
+    "dis_client_text": "SS Online, 14.32.0000.702.45.409.21.110",
+    "iigs": [
+      "Summit Communications Ltd.",
+      "Bangladesh Submarine Cable Company Ltd.",
+      "Fiber@Home Global Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 17:33:10"
+  },
+  "3459": {
+    "op_id": "3459",
+    "dis_client_text": "Rapid Network, 14.32.0000.702.45.626.21.030",
+    "iigs": [
+      "Startrek Telecom Ltd",
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 17:33:15"
+  },
+  "3564": {
+    "op_id": "3564",
+    "dis_client_text": "Smart Online, 14.32.0000.702.45.732.22.132",
+    "iigs": [
+      "Exabyte Ltd.",
+      "Coronet Corporation Ltd.",
+      "Fiber@Home Global Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 17:33:18"
+  },
+  "3913": {
+    "op_id": "3913",
+    "dis_client_text": "Asian Communication, 14.32.0000.702.46.327.19.393",
+    "iigs": [
+      "Startrek Telecom Ltd"
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 17:33:22"
+  },
+  "4021": {
+    "op_id": "4021",
+    "dis_client_text": "Smirity Cable, 14.32.0000.702.46.404.19.674",
+    "iigs": [
+      "Greenmax Technologies Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 17:33:24"
+  },
+  "4045": {
+    "op_id": "4045",
+    "dis_client_text": "Tlink Communication, 14.32.0000.702.46.425.19.662",
+    "iigs": [
+      "Velocity Networks Limited"
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 17:33:26"
+  },
+  "4084": {
+    "op_id": "4084",
+    "dis_client_text": "J.K. Network, 14.32.0000.702.46.454.19.108",
+    "iigs": [
+      "Earth Telecommunication (Pvt.) Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 17:33:27"
+  },
+  "4139": {
+    "op_id": "4139",
+    "dis_client_text": "Dhaka Net, 14.32.0000.702.46.506.19.255",
+    "iigs": [
+      "BD Hub Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 17:33:29"
+  },
+  "4159": {
+    "op_id": "4159",
+    "dis_client_text": "Speed Net, 14.32.0000.702.46.523.19.558",
+    "iigs": [
+      "Windstream Communication Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 17:33:32"
+  },
+  "4279": {
+    "op_id": "4279",
+    "dis_client_text": "Himel Internet Service, 14.32.0000.702.46.627.19.602",
+    "iigs": [
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 17:33:34"
+  },
+  "4400": {
+    "op_id": "4400",
+    "dis_client_text": "SM Internet, 14.32.0000.702.46.747.20.656",
+    "iigs": [
+      "BD Hub Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 17:33:35"
+  },
+  "4460": {
+    "op_id": "4460",
+    "dis_client_text": "iNet, 14.32.0000.007.59.320.18.814",
+    "iigs": [
+      "Fiber@Home Global Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 17:33:37"
+  },
+  "4810": {
+    "op_id": "4810",
+    "dis_client_text": "Cyber Link Communication, 14.32.0000.702.47.141.23.692",
+    "iigs": [
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 17:33:38"
+  },
+  "4965": {
+    "op_id": "4965",
+    "dis_client_text": "D Net Service, 14.32.0000.702.47.347.20.428",
+    "iigs": [
+      "Summit Communications Ltd.",
+      "Exabyte Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 17:33:41"
+  },
+  "4989": {
+    "op_id": "4989",
+    "dis_client_text": "Alpha Sattelite Network, 14.32.0000.702.47.029.19.321",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 17:33:45"
+  },
+  "5040": {
+    "op_id": "5040",
+    "dis_client_text": "Net Express, 14.32.0000.702.47.109.19.379",
+    "iigs": [
+      "Level3 Carrier Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 17:33:48"
+  },
+  "5416": {
+    "op_id": "5416",
+    "dis_client_text": "Sync IT Bangladesh, 14.32.0000.702.47.017.19.345",
+    "iigs": [
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 17:33:53"
+  },
+  "5461": {
+    "op_id": "5461",
+    "dis_client_text": "A.S Online, 14.32.0000.702.47.578.21.1034",
+    "iigs": [
+      "BD Hub Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 17:33:55"
+  },
+  "5964": {
+    "op_id": "5964",
+    "dis_client_text": "T Network, 14.32.0000.702.47.127.23.653",
+    "iigs": [
+      "Level3 Carrier Ltd.",
+      "Summit Communications Ltd."
+    ],
+    "source_month": "September 2026",
+    "updated_at": "2026-11-01 17:33:59"
+  }
+}
