@@ -1316,6 +1316,25 @@ def generate_html_dashboard():
                 bgpList.map(u => `<li class="unannounced-peer">📡 <b>${{escapeHtml(u)}}</b></li>`).join('') :
                 `<li style="color:#94a3b8; font-style:italic;">লাইভ BGP তে কোনো সক্রিয় রুট পাওয়া যায়নি</li>`;
 
+            const bgpDownList = (c.bgp_live_downstream || '').split('\\n').filter(s => s.trim());
+            let bgpDownHtml = '';
+            if (bgpDownList.length > 0) {{
+                const sampleDown = bgpDownList.slice(0, 4).map(u => `<li style="font-size:11px; color:#475569; padding:2px 0;">👥 ${{escapeHtml(u)}}</li>`).join('');
+                const moreText = bgpDownList.length > 4 ? `<li style="color:#64748b; font-style:italic; font-size:10.5px; padding-top:2px;">... আরও ${{bgpDownList.length - 4}}টি ডাউনস্ট্রিম গ্রাহক (এক্সেলে বিস্তারিত)</li>` : '';
+                bgpDownHtml = `
+                            <div class="sub-block" style="margin-top:10px;">
+                                <div class="sub-block-title">
+                                    <span>লাইভ BGP ডাউনস্ট্রিম ক্লায়েন্ট (কাস্টমার)</span>
+                                    <span class="count-pill" style="background:#e0e7ff; color:#4338ca;">${{bgpDownList.length}} টি</span>
+                                </div>
+                                <ul class="upstream-list" style="max-height:85px; overflow-y:auto; padding-left:10px;">
+                                    ${{sampleDown}}
+                                    ${{moreText}}
+                                </ul>
+                            </div>
+                `;
+            }}
+
             // Decisions HTML
             let decisionsHtml = '';
             if (c.decisions && c.decisions.length > 0) {{
@@ -1453,6 +1472,7 @@ def generate_html_dashboard():
                                     ${{bgpItemsHtml}}
                                 </ul>
                             </div>
+                            ${{bgpDownHtml}}
                             <div class="sub-block">
                                 <div class="sub-block-title">BGP রাউটিং ও নেটওয়ার্ক স্ট্যাটাস</div>
                                 <div class="pillar-info-list">
