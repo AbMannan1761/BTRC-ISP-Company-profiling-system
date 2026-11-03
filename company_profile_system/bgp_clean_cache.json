@@ -1,0 +1,794 @@
+{
+  "AS131464": [
+    [
+      "AS134734",
+      "Velocity Networks Limited"
+    ],
+    [
+      "AS58682",
+      "Level3 Carrier Ltd."
+    ]
+  ],
+  "AS132298": [
+    [
+      "AS58717",
+      "Summit Communications Ltd"
+    ],
+    [
+      "AS10075",
+      "Fiber@Home Global Limited"
+    ],
+    [
+      "AS137453",
+      "Orange Communication"
+    ]
+  ],
+  "AS132366": [
+    [
+      "AS58682",
+      "Level3 Carrier Ltd."
+    ],
+    [
+      "AS58717",
+      "Summit Communications Ltd"
+    ],
+    [
+      "AS149994",
+      "Rego Communications Ltd"
+    ]
+  ],
+  "AS132608": [
+    [
+      "AS17806",
+      "Mango Teleservices Ltd"
+    ]
+  ],
+  "AS133112": [
+    [
+      "AS58945",
+      "Virgo Communication Ltd"
+    ],
+    [
+      "AS58682",
+      "Level3 Carrier Ltd."
+    ],
+    [
+      "AS10075",
+      "Fiber@Home Global Limited"
+    ],
+    [
+      "AS58717",
+      "Summit Communications Ltd"
+    ]
+  ],
+  "AS133605": [
+    [
+      "AS58717",
+      "Summit Communications Ltd"
+    ],
+    [
+      "AS139029",
+      "AKNetworks"
+    ]
+  ],
+  "AS133954": [
+    [
+      "AS58717",
+      "Summit Communications Ltd"
+    ],
+    [
+      "AS139009",
+      "Windstream Communication Limited"
+    ],
+    [
+      "AS10075",
+      "Fiber@Home Global Limited"
+    ],
+    [
+      "AS150748",
+      "Gmax"
+    ]
+  ],
+  "AS134732": [
+    [
+      "AS58717",
+      "Summit Communications Ltd"
+    ],
+    [
+      "AS58682",
+      "Level3 Carrier Ltd."
+    ],
+    [
+      "AS139009",
+      "Windstream Communication Limited"
+    ]
+  ],
+  "AS134785": [
+    [
+      "AS150178",
+      "EXABYTE LTD"
+    ],
+    [
+      "AS149994",
+      "Rego Communications Ltd"
+    ],
+    [
+      "AS139009",
+      "Windstream Communication Limited"
+    ]
+  ],
+  "AS134990": [
+    [
+      "AS150748",
+      "Gmax"
+    ],
+    [
+      "AS58629",
+      "Global Fair Communications Ltd."
+    ],
+    [
+      "AS17494",
+      "Bangladesh Telegraph & Telephone Board (BTTB)"
+    ]
+  ],
+  "AS135420": [
+    [
+      "AS17494",
+      "Bangladesh Telegraph & Telephone Board (BTTB)"
+    ],
+    [
+      "AS150178",
+      "EXABYTE LTD"
+    ],
+    [
+      "AS138346",
+      "NETX"
+    ]
+  ],
+  "AS136014": [
+    [
+      "AS58717",
+      "Summit Communications Ltd"
+    ],
+    [
+      "AS132602",
+      "Bangladesh Submarine Cable Company Limited (BSCCL)"
+    ],
+    [
+      "AS150178",
+      "EXABYTE LTD"
+    ]
+  ],
+  "AS136514": [
+    [
+      "AS58717",
+      "Summit Communications Ltd"
+    ],
+    [
+      "AS139009",
+      "Windstream Communication Limited"
+    ]
+  ],
+  "AS137526": [
+    [
+      "AS58717",
+      "Summit Communications Ltd"
+    ],
+    [
+      "AS139009",
+      "Windstream Communication Limited"
+    ]
+  ],
+  "AS137542": [
+    [
+      "AS58682",
+      "Level3 Carrier Ltd."
+    ],
+    [
+      "AS139009",
+      "Windstream Communication Limited"
+    ]
+  ],
+  "AS137883": [
+    [
+      "AS17806",
+      "Mango Teleservices Ltd"
+    ],
+    [
+      "AS139901",
+      "Apple Communication Ltd."
+    ],
+    [
+      "AS10075",
+      "Fiber@Home Global Limited"
+    ]
+  ],
+  "AS137964": [
+    [
+      "AS58717",
+      "Summit Communications Ltd"
+    ],
+    [
+      "AS139009",
+      "Windstream Communication Limited"
+    ],
+    [
+      "AS10075",
+      "Fiber@Home Global Limited"
+    ],
+    [
+      "AS17494",
+      "Bangladesh Telegraph & Telephone Board (BTTB)"
+    ]
+  ],
+  "AS138385": [
+    [
+      "AS137491",
+      "PEEREX NETWORKS LTD./IIG"
+    ],
+    [
+      "AS58682",
+      "Level3 Carrier Ltd."
+    ],
+    [
+      "AS58717",
+      "Summit Communications Ltd"
+    ],
+    [
+      "AS150178",
+      "EXABYTE LTD"
+    ]
+  ],
+  "AS138505": [
+    [
+      "AS10075",
+      "Fiber@Home Global Limited"
+    ],
+    [
+      "AS58717",
+      "Summit Communications Ltd"
+    ],
+    [
+      "AS17494",
+      "Bangladesh Telegraph & Telephone Board (BTTB)"
+    ]
+  ],
+  "AS138536": [
+    [
+      "AS58717",
+      "Summit Communications Ltd"
+    ],
+    [
+      "AS150178",
+      "EXABYTE LTD"
+    ],
+    [
+      "AS24122",
+      "BDCOM Online Limited"
+    ]
+  ],
+  "AS138640": [
+    [
+      "AS149765",
+      "Coronet Corporation Limited"
+    ],
+    [
+      "AS139009",
+      "Windstream Communication Limited"
+    ],
+    [
+      "AS17494",
+      "Bangladesh Telegraph & Telephone Board (BTTB)"
+    ],
+    [
+      "AS58715",
+      "EARTH TELECOMMUNICATION (Pvt) LTD."
+    ]
+  ],
+  "AS138992": [
+    [
+      "AS149994",
+      "Rego Communications Ltd"
+    ],
+    [
+      "AS139009",
+      "Windstream Communication Limited"
+    ]
+  ],
+  "AS139052": [
+    [
+      "AS139009",
+      "Windstream Communication Limited"
+    ],
+    [
+      "AS58717",
+      "Summit Communications Ltd"
+    ],
+    [
+      "AS17494",
+      "Bangladesh Telegraph & Telephone Board (BTTB)"
+    ]
+  ],
+  "AS139793": [
+    [
+      "AS17494",
+      "Bangladesh Telegraph & Telephone Board (BTTB)"
+    ]
+  ],
+  "AS139870": [
+    [
+      "AS58717",
+      "Summit Communications Ltd"
+    ],
+    [
+      "AS149765",
+      "Coronet Corporation Limited"
+    ],
+    [
+      "AS139009",
+      "Windstream Communication Limited"
+    ]
+  ],
+  "AS139904": [
+    [
+      "AS58717",
+      "Summit Communications Ltd"
+    ],
+    [
+      "AS58682",
+      "Level3 Carrier Ltd."
+    ]
+  ],
+  "AS140228": [
+    [
+      "AS58656",
+      "bdHUB Limited"
+    ],
+    [
+      "AS58682",
+      "Level3 Carrier Ltd."
+    ],
+    [
+      "AS139009",
+      "Windstream Communication Limited"
+    ]
+  ],
+  "AS140930": [
+    [
+      "AS58688",
+      "RADIANT COMMUNICATIONS LTD IIG"
+    ],
+    [
+      "AS17494",
+      "Bangladesh Telegraph & Telephone Board (BTTB)"
+    ]
+  ],
+  "AS141474": [
+    [
+      "AS10075",
+      "Fiber@Home Global Limited"
+    ],
+    [
+      "AS58717",
+      "Summit Communications Ltd"
+    ],
+    [
+      "AS58715",
+      "EARTH TELECOMMUNICATION (Pvt) LTD."
+    ],
+    [
+      "AS58945",
+      "Virgo Communication Ltd"
+    ],
+    [
+      "AS137491",
+      "PEEREX NETWORKS LTD./IIG"
+    ]
+  ],
+  "AS149433": [
+    [
+      "AS150748",
+      "Gmax"
+    ],
+    [
+      "AS58682",
+      "Level3 Carrier Ltd."
+    ],
+    [
+      "AS58717",
+      "Summit Communications Ltd"
+    ],
+    [
+      "AS10075",
+      "Fiber@Home Global Limited"
+    ]
+  ],
+  "AS149445": [
+    [
+      "AS58717",
+      "Summit Communications Ltd"
+    ],
+    [
+      "AS45588",
+      "Bangladesh Telecommunications Company Ltd (BTCL)"
+    ],
+    [
+      "AS17494",
+      "Bangladesh Telegraph & Telephone Board (BTTB)"
+    ]
+  ],
+  "AS150001": [
+    [
+      "AS139009",
+      "Windstream Communication Limited"
+    ],
+    [
+      "AS10075",
+      "Fiber@Home Global Limited"
+    ],
+    [
+      "AS150178",
+      "EXABYTE LTD"
+    ],
+    [
+      "AS149876",
+      "COX LINK IT"
+    ]
+  ],
+  "AS150696": [
+    [
+      "AS58717",
+      "Summit Communications Ltd"
+    ],
+    [
+      "AS17806",
+      "Mango Teleservices Ltd"
+    ],
+    [
+      "AS141731",
+      "Max Hub Limited"
+    ]
+  ],
+  "AS153038": [
+    [
+      "AS58717",
+      "Summit Communications Ltd"
+    ],
+    [
+      "AS139009",
+      "Windstream Communication Limited"
+    ],
+    [
+      "AS58682",
+      "Level3 Carrier Ltd."
+    ],
+    [
+      "AS58945",
+      "Virgo Communication Ltd"
+    ]
+  ],
+  "AS17469": [
+    [
+      "AS10075",
+      "Fiber@Home Global Limited"
+    ],
+    [
+      "AS58717",
+      "Summit Communications Ltd"
+    ],
+    [
+      "AS150178",
+      "EXABYTE LTD"
+    ],
+    [
+      "AS17494",
+      "Bangladesh Telegraph & Telephone Board (BTTB)"
+    ],
+    [
+      "AS58704",
+      "Intraglobe Communications Ltd."
+    ],
+    [
+      "AS149765",
+      "Coronet Corporation Limited"
+    ],
+    [
+      "AS24342",
+      "BRACNet Limited"
+    ]
+  ],
+  "AS23688": [
+    [
+      "AS58717",
+      "Summit Communications Ltd"
+    ],
+    [
+      "AS58715",
+      "EARTH TELECOMMUNICATION (Pvt) LTD."
+    ],
+    [
+      "AS58682",
+      "Level3 Carrier Ltd."
+    ],
+    [
+      "AS139901",
+      "Apple Communication Ltd."
+    ],
+    [
+      "AS139009",
+      "Windstream Communication Limited"
+    ],
+    [
+      "AS132602",
+      "Bangladesh Submarine Cable Company Limited (BSCCL)"
+    ],
+    [
+      "AS58599",
+      "Cybergate Limited"
+    ]
+  ],
+  "AS23923": [
+    [
+      "AS58655",
+      "SkyTel Communications Limited"
+    ],
+    [
+      "AS58717",
+      "Summit Communications Ltd"
+    ],
+    [
+      "AS139901",
+      "Apple Communication Ltd."
+    ],
+    [
+      "AS58715",
+      "EARTH TELECOMMUNICATION (Pvt) LTD."
+    ]
+  ],
+  "AS23956": [
+    [
+      "AS58717",
+      "Summit Communications Ltd"
+    ],
+    [
+      "AS58656",
+      "bdHUB Limited"
+    ],
+    [
+      "AS58682",
+      "Level3 Carrier Ltd."
+    ],
+    [
+      "AS17494",
+      "Bangladesh Telegraph & Telephone Board (BTTB)"
+    ],
+    [
+      "AS10075",
+      "Fiber@Home Global Limited"
+    ]
+  ],
+  "AS23991": [
+    [
+      "AS58717",
+      "Summit Communications Ltd"
+    ],
+    [
+      "AS58715",
+      "EARTH TELECOMMUNICATION (Pvt) LTD."
+    ],
+    [
+      "AS139901",
+      "Apple Communication Ltd."
+    ]
+  ],
+  "AS24342": [
+    [
+      "AS58717",
+      "Summit Communications Ltd"
+    ],
+    [
+      "AS10075",
+      "Fiber@Home Global Limited"
+    ],
+    [
+      "AS58715",
+      "EARTH TELECOMMUNICATION (Pvt) LTD."
+    ],
+    [
+      "AS58656",
+      "bdHUB Limited"
+    ],
+    [
+      "AS137491",
+      "PEEREX NETWORKS LTD./IIG"
+    ]
+  ],
+  "AS38067": [
+    [
+      "AS17494",
+      "Bangladesh Telegraph & Telephone Board (BTTB)"
+    ],
+    [
+      "AS4229",
+      "Zenlayer Inc"
+    ],
+    [
+      "AS58688",
+      "RADIANT COMMUNICATIONS LTD IIG"
+    ]
+  ],
+  "AS38200": [
+    [
+      "AS58717",
+      "Summit Communications Ltd"
+    ],
+    [
+      "AS150178",
+      "EXABYTE LTD"
+    ],
+    [
+      "AS139009",
+      "Windstream Communication Limited"
+    ]
+  ],
+  "AS38203": [
+    [
+      "AS59378",
+      "ADN International Gateway Limited"
+    ],
+    [
+      "AS132602",
+      "Bangladesh Submarine Cable Company Limited (BSCCL)"
+    ],
+    [
+      "AS58717",
+      "Summit Communications Ltd"
+    ],
+    [
+      "AS10075",
+      "Fiber@Home Global Limited"
+    ],
+    [
+      "AS150178",
+      "EXABYTE LTD"
+    ]
+  ],
+  "AS38493": [
+    [
+      "AS139901",
+      "Apple Communication Ltd."
+    ],
+    [
+      "AS58656",
+      "bdHUB Limited"
+    ],
+    [
+      "AS58717",
+      "Summit Communications Ltd"
+    ]
+  ],
+  "AS38562": [
+    [
+      "AS150178",
+      "EXABYTE LTD"
+    ],
+    [
+      "AS58717",
+      "Summit Communications Ltd"
+    ],
+    [
+      "AS58945",
+      "Virgo Communication Ltd"
+    ]
+  ],
+  "AS38712": [
+    [
+      "AS58717",
+      "Summit Communications Ltd"
+    ],
+    [
+      "AS58682",
+      "Level3 Carrier Ltd."
+    ],
+    [
+      "AS58656",
+      "bdHUB Limited"
+    ]
+  ],
+  "AS45326": [
+    [
+      "AS58717",
+      "Summit Communications Ltd"
+    ],
+    [
+      "AS58715",
+      "EARTH TELECOMMUNICATION (Pvt) LTD."
+    ],
+    [
+      "AS150178",
+      "EXABYTE LTD"
+    ]
+  ],
+  "AS55492": [
+    [
+      "AS58717",
+      "Summit Communications Ltd"
+    ],
+    [
+      "AS150178",
+      "EXABYTE LTD"
+    ],
+    [
+      "AS17806",
+      "Mango Teleservices Ltd"
+    ]
+  ],
+  "AS58689": [
+    [
+      "AS137491",
+      "PEEREX NETWORKS LTD./IIG"
+    ]
+  ],
+  "AS59362": [
+    [
+      "AS10075",
+      "Fiber@Home Global Limited"
+    ],
+    [
+      "AS141731",
+      "Max Hub Limited"
+    ],
+    [
+      "AS58717",
+      "Summit Communications Ltd"
+    ]
+  ],
+  "AS63526": [
+    [
+      "AS139009",
+      "Windstream Communication Limited"
+    ],
+    [
+      "AS149765",
+      "Coronet Corporation Limited"
+    ],
+    [
+      "AS17494",
+      "Bangladesh Telegraph & Telephone Board (BTTB)"
+    ]
+  ],
+  "AS63969": [
+    [
+      "AS58715",
+      "EARTH TELECOMMUNICATION (Pvt) LTD."
+    ],
+    [
+      "AS58717",
+      "Summit Communications Ltd"
+    ]
+  ],
+  "AS64074": [
+    [
+      "AS139009",
+      "Windstream Communication Limited"
+    ]
+  ],
+  "AS7565": [
+    [
+      "AS10075",
+      "Fiber@Home Global Limited"
+    ],
+    [
+      "AS58717",
+      "Summit Communications Ltd"
+    ],
+    [
+      "AS149876",
+      "COX LINK IT"
+    ],
+    [
+      "AS58682",
+      "Level3 Carrier Ltd."
+    ]
+  ]
+}
